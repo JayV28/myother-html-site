@@ -3,15 +3,15 @@
     "id": 1755160982134,
     "lender": "HOME CREDIT ",
     "borrowDate": "2025-04-15",
-    "dueDate": "2025-08-15",
+    "dueDate": "2025-09-14",
     "amountBorrowed": "75000.00",
     "monthlyInterest": "1673.29",
     "term": 42,
-    "remainingMonths": 39,
+    "remainingMonths": 38,
     "monthlyPayment": "3459.00",
     "paymentDay": "15",
-    "totalRemaining": "134901.00",
-    "remarks": ""
+    "totalRemaining": "131442.00",
+    "remarks": "I must pay lablab"
   },
   {
     "id": 1755161022736,
@@ -87,14 +87,14 @@
     "id": 1755161608800,
     "lender": "ATOME",
     "borrowDate": "2025-07-15",
-    "dueDate": "2025-08-15",
+    "dueDate": "2025-08-22",
     "amountBorrowed": "10500.42",
     "monthlyInterest": "919.14",
     "term": 6,
-    "remainingMonths": 6,
+    "remainingMonths": 5,
     "monthlyPayment": "2669.21",
     "paymentDay": "15",
-    "totalRemaining": "16015.26",
+    "totalRemaining": "13346.05",
     "remarks": ""
   },
   {
@@ -193,6 +193,6 @@
     "monthlyPayment": "3030.00",
     "paymentDay": "30",
     "totalRemaining": "36360.00",
-    "remarks": "(Andree payment)"
+    "remarks": ""
   }
 ]
